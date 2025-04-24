@@ -1,11 +1,11 @@
-![Alt Text](https://github.com/RASM80/SmartRelayController/blob/main/images/overview.jpg?raw=true)
+![overview](https://github.com/RASM80/SmartRelayController/blob/main/images/overview.jpg?raw=true)
 
-![Alt Text](https://github.com/RASM80/SmartRelayController/blob/main/images/sms_test.jpg?raw=true)
+![sms_test](https://github.com/RASM80/SmartRelayController/blob/main/images/sms_test.jpg?raw=true)
 
-![Alt Text](https://github.com/RASM80/SmartRelayController/blob/main/images/package.jpg?raw=true)
+![packaging](https://github.com/RASM80/SmartRelayController/blob/main/images/package.jpg?raw=true)
 
-![Alt Text](https://github.com/RASM80/SmartRelayController/blob/main/images/relay_board_schem.jpg?raw=true)
+![relay_scheme](https://github.com/RASM80/SmartRelayController/blob/main/images/relay_board_schem.jpg?raw=true)
 
-![Alt Text](https://github.com/RASM80/SmartRelayController/blob/main/images/proteus_overview.jpg?raw=true)
+![main_prot](https://github.com/RASM80/SmartRelayController/blob/main/images/proteus_overview.jpg?raw=true)
 
 

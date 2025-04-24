@@ -5,7 +5,7 @@
 
 # 8-Channel Relay Controller
 
-![Alt Text](https://github.com/RASM80/SmartRelayController/raw/main/images/overview.jpg?raw=true)
+![banner](https://github.com/RASM80/SmartRelayController/raw/main/images/overview.jpg?raw=true)
 
 
 ## Overview
@@ -16,7 +16,7 @@ My goal was to optimize the program’s execution speed on the MCU. However, thi
 
 **C files are written in Codevision platform but migrating to AVR-GCC or other compilers should be effortless.**
 
-![Alt Text](https://github.com/RASM80/SmartRelayController/blob/main/images/proteus_overview.jpg?raw=true)
+![prot](https://github.com/RASM80/SmartRelayController/blob/main/images/proteus_overview.jpg?raw=true)
 
 
 ## Features
@@ -118,7 +118,7 @@ Set specific daily schedules for relays:
 - Via SMS: Use `manual<output>` followed by up to 48 time slots (e.g., `12:00-13:00`, terminated with `end`).
 - Via Backup: Custom schedules are stored in EEPROM and restored on startup (see `Backup.c`).
 
-![Alt Text](https://github.com/RASM80/SmartRelayController/blob/main/images/sms_test.jpg?raw=true)
+![sms_test](https://github.com/RASM80/SmartRelayController/blob/main/images/sms_test.jpg?raw=true)
 
 ## Contributing
 contributions are welcome!
