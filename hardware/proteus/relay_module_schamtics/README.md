@@ -1,0 +1,1 @@
+![Alt Text](https://github.com/RASM80/SmartRelayController/blob/main/images/relay_board_schem.jpg?raw=true)

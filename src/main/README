@@ -1,1 +1,18 @@
+## EEPROM map
+
+4096 byte EEPROM
+(0x000 - 0xFFF)
+
+setting:
+
+	- option bools 		(4 bytes) 				(0x000 - 0x003)
+	- timing_modes		(1 byte)				(0x004)  
+	- whole_duration[8]	(2 * 8 bytes) 			(0x005 - 0x014)
+	- cycle_duration[8]	(1 * 8 bytes)			(0x015 - 0x01C)
+	- output_state		(1 byte)				(0x01D)
+	- Switch_key_out_index	(1 byte)			(0x630)
+	*** few addresses are reserved for future use
+	- Timings[8][48]	(4 * 8 * 48 bytes)		(0x020 - 0x620) 
+		(For manual scheduling)
+
 

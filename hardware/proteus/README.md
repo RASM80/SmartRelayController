@@ -1,0 +1,2 @@
+### Attention:
+Both proteus simulations are functional. While not all functionalities can be simulated within the primary Proteus environment, it is important to note that certain limitations may apply. (e.g., SIM800 and ...)

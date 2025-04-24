@@ -5,6 +5,9 @@
 
 # 8-Channel Relay Controller
 
+![Alt Text](https://github.com/RASM80/SmartRelayController/raw/main/images/overview.jpg?raw=true)
+
+
 ## Overview
 
 The 8-Channel Relay Controller is a flexible automation tool designed to manage up to eight independent relays. Built around the **ATmega64A** microcontroller, this project offers a range of control options tailored for both manual and automated tasks. Whether you're switching devices locally via an intuitive **LCD interface** or remotely through **SMS**, this controller provides reliable operation With support for periodic on/off cycles and custom daily schedules, it’s a versatile solution for precise relay control. 
@@ -12,6 +15,9 @@ The 8-Channel Relay Controller is a flexible automation tool designed to manage 
 My goal was to optimize the program’s execution speed on the MCU. However, this required more RAM, and the Atmega32’s limited memory made it insufficient for the task
 
 **C files are written in Codevision platform but migrating to AVR-GCC or other compilers should be effortless.**
+
+![Alt Text](https://github.com/RASM80/SmartRelayController/blob/main/images/proteus_overview.jpg?raw=true)
+
 
 ## Features
 
