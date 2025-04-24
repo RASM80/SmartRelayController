@@ -118,5 +118,7 @@ Set specific daily schedules for relays:
 - Via SMS: Use `manual<output>` followed by up to 48 time slots (e.g., `12:00-13:00`, terminated with `end`).
 - Via Backup: Custom schedules are stored in EEPROM and restored on startup (see `Backup.c`).
 
+![Alt Text](https://github.com/RASM80/SmartRelayController/blob/main/images/sms_test.jpg?raw=true)
+
 ## Contributing
 contributions are welcome!
